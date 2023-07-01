@@ -9,6 +9,8 @@ An extremely simple DCC Command Station
 
 The MacDCC Command Station requires 0SX 10.7+ and works on Mavericks up to at least MacOS Ventura. The software is ALPHA quality so will have many bugs. I have only tested it using a Bachmann Spectrum N Scale GE 44-Ton Switcher and it works, sort of. The Emergency Stop and Broadcast Emergency Stop don't seem to be recognised, and for some reason the Switcher will 'work' on 14, 28 and 128 speed step modes even though the decoder instructions say 28 speed step only. I also had to experiment to find which function switched on the headlight. The decoder instructions say function button 10 ( F10) on the E-Z Command system so I assumed that would be auxiliary function 10 in the DCC standard, but no, it's FL in Function Group 1 ( Extended Packet Formats For Digital Command Control, All Scales  RP 9.2.1 - line 240 ). Got to love standards!
 
+**NOTE:** the MacDCC Command Station software is unsigned and you may get a warning that it is from an unidentified developer when you try to run it. If this is the case and you still want to run the software, you will have to ‘allow’ it from within the Security and Privacy tab of your System Preferences.
+
 These programs are distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ## How to use
