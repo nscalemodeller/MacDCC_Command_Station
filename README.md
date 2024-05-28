@@ -1,5 +1,5 @@
 # MacDCC_Command_Station
-An extremely simple DCC Command Station
+An extremely simple and incomplete DCC Command Station
 
 ## Repository Contents
 
