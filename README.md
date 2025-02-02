@@ -24,6 +24,6 @@ You can then add the monitor and booster hardware to the respective arduinos as 
 Finally, hook up the booster to a section of rail and run a loco.
 
 
-[blog post]: https://nscalemodeller.com/arduino/dcc/2015/01/02/sending-dcc-with-arduino.html
+[blog post]: https://nscalemodeller.com/2015/2015-01-02-sending-dcc-with-arduino/
 [this post]: https://nscalemodeller.com/arduino/dcc/dcc%20command%20station/2015/01/29/command-station.html
 
